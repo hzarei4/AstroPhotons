@@ -1,5 +1,6 @@
 [deps]
 NumericalIntegration = "e7bfaba1-d571-5449-8927-abc22e82249b"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 Planck = "49ffdefc-b0d8-4915-a1d4-43900e16f762"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
